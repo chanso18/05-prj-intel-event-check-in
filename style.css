@@ -237,20 +237,20 @@ button .fas {
   margin-top: 0;
 }
 
-/* Messages */
-#greeting {
-  font-weight: 500;
-  font-size: 18px;
-  padding: 16px 20px;
-  border-radius: 8px;
-  color: #333;
-  margin-bottom: 15px;
+/* Welcome message box styling */
+#welcomeMessageSection {
+  margin: 18px 0;
+  padding: 12px 20px;
+  border-radius: 14px;
+  background-color: #e8f4fc;
   display: none;
 }
 
-.success-message {
-  background-color: #e8f4fc;
+#welcomeMessage {
   color: #003c71;
+  font-weight: 500;
+  font-size: 18px;
+  margin: 0;
 }
 
 /* Counter */
