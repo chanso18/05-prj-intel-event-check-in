@@ -1,4 +1,5 @@
 //Get all needed DOM elements
+//Final
 
 const form = document.getElementById("checkInForm");
 const nameInput = document.getElementById("attendeeName");
